@@ -1,4 +1,4 @@
-# DISCOBY: Build Discord Bots 10x Faster 🚀
+ # DISCOBY: Build Discord Bots 10x Faster 🚀
 
 ## Introduction
 
@@ -45,7 +45,7 @@ Whether you're a beginner or a pro, DISCOBY has something for everyone.
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/DISCOBY.git
+    git clone https://github.com/iamsparke/Discoby.git
     ```
 
 2. **Install the dependencies**:
@@ -74,7 +74,7 @@ If you're using **Termux** (on Android), follow these steps:
 2. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/DISCOBY.git
+    git clone https://github.com/iamsparke/Discoby.git
     ```
 
 3. **Navigate to the project directory**:
