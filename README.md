@@ -72,6 +72,7 @@ If you're using **Termux** (on Android), follow these steps:
     pkg install python-pip
     pkg install colorma
     pkg install python git
+    termux-setup-storage
     ```
 
 2. **Clone the repository**:
