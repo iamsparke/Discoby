@@ -132,7 +132,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions, feel free to reach out at **iamsparke444@gmail.com**.
+For questions, feel free to reach out at DISCORD => **SPARKE#2556**.
 
 ---
 
