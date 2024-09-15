@@ -68,6 +68,9 @@ If you're using **Termux** (on Android), follow these steps:
 
     ```bash
     pkg update
+    pkg upgrade
+    pkg install python-pip
+    pkg install colorma
     pkg install python git
     ```
 
