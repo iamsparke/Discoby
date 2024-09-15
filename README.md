@@ -80,7 +80,7 @@ If you're using **Termux** (on Android), follow these steps:
 3. **Navigate to the project directory**:
 
     ```bash
-    cd DISCOBY
+    cd Discoby
     ```
 
 4. **Install the required dependencies**:
